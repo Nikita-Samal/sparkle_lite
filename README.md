@@ -24,14 +24,14 @@ The main focus of this project was building a **clean, scalable Flutter frontend
  Key Features
 --------
 
-* 📝 Symptom logging system
-* 📊 Symptom history & timeline view
-* 📁 Health records UI (mock data structure)
-* 🤖 Rule-based AI insight generation (frontend logic)
-* 👨‍⚕️ Doctor visit summary UI (mock flow)
-* ⚙️ Privacy & settings screens
-* 👨‍👩‍👧 Family module UI structure
-* 📱 Responsive design for mobile and web
+* Symptom logging system
+*  Symptom history & timeline view
+*  Health records UI (mock data structure)
+*  Rule-based AI insight generation (frontend logic)
+*  Doctor visit summary UI (mock flow)
+*  Privacy & settings screens
+*  Family module UI structure
+*  Responsive design for mobile and web
 
 ---
 
